@@ -290,8 +290,8 @@ Full benchmark suite measuring execution time (`time.perf_counter`), peak memory
 
 ## Authors
 
-| Name | Role |
-|------|------|
+| Name |
+|------|
 | Doria, John Vincent |
 | Estil, Susan Marie |
 | Fanoga, Haidie N. | 
