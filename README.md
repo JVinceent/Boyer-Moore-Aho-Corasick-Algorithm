@@ -292,11 +292,11 @@ Full benchmark suite measuring execution time (`time.perf_counter`), peak memory
 
 | Name | Role |
 |------|------|
-| Doria, John Vincent | Algorithm Design & Implementation |
-| Estil, Susan Marie | Dataset Curation & Evaluation |
-| Fanoga, Haidie N. | Pipeline Architecture |
-| Guillo, Rejc C. | Benchmarking & Analysis |
-| Hepuller, Kate Nicole | Documentation & Testing |
+| Doria, John Vincent |
+| Estil, Susan Marie |
+| Fanoga, Haidie N. | 
+| Guillo, Rejc C. | 
+| Hepuller, Kate Nicole | 
 
 **Course:** Design and Analysis of Algorithms  
 **Institution:** Batangas State University – Alangilan Campus  
