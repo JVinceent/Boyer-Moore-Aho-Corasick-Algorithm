@@ -1,0 +1,23 @@
+SMALL DATASET — 20 Toxic Words (Filipino & English),,,,,
+#,Language,Plain Word,Leet Variant 1 (Basic),Leet Variant 2 (Intermediate),Category
+1,Filipino,bobo,b0b0,8080,Profanity
+2,Filipino,tanga,74ng4,74n94,Profanity
+3,Filipino,gago,g4g0,9490,Profanity
+4,Filipino,ulol,ul0l,u101,Profanity
+5,Filipino,inutil,1nu71l,1nu711,Insult
+6,Filipino,tarantado,74r4n74d0,74r4n74d0,Insult
+7,Filipino,hunghang,hungh4ng,hun9h4n9,Insult
+8,Filipino,leche,l3ch3,13ch3,Profanity
+9,Filipino,gaga,g4g4,9494,Profanity
+10,Filipino,tangina,74ng1n4,74n91n4,Profanity
+11,English,idiot,1d107,1d107,Insult
+12,English,stupid,57up1d,57up1d,Insult
+13,English,noob,n00b,n008,Gaming Insult
+14,English,trash,7r45h,7r45h,Gaming Insult
+15,English,loser,l053r,1053r,Insult
+16,English,moron,m0r0n,m0r0n,Insult
+17,English,toxic,70x1c,70x1c,Gaming
+18,English,bot,b07,807,Gaming Insult
+19,English,garbage,g4rb4g3,94r8493,Gaming Insult
+20,English,pathetic,p47h371c,p47h371c,Insult
+,,,,,

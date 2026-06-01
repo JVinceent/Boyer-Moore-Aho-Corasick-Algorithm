@@ -1,0 +1,4 @@
+Dictionary,Avg BM Time (us),Avg AC Time (us),Avg HY Time (us),Avg BM Mem (KB),Avg AC Mem (KB),Avg HY Mem (KB),TP,FP,TN,FN,Precision (%),Recall (%),F1 Score (%)
+Small (53),413.89,1255.8,258.87,0.54,62.64,0.91,31,0,15,44,100.0,41.3,58.5
+Medium (259),1907.08,6465.85,240.1,0.6,355.22,0.9,31,0,15,44,100.0,41.3,58.5
+Large (820),7151.35,37471.43,270.61,0.9,1433.31,0.91,31,0,15,44,100.0,41.3,58.5

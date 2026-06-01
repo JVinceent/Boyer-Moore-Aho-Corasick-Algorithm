@@ -1,0 +1,7 @@
+Type,Total,TP,FP,TN,FN,Precision,Recall
+plain_toxic,20,8,0,0,12,100.0%,40.0%
+leet_basic,20,9,0,0,11,100.0%,45.0%
+leet_inter,20,4,0,0,16,100.0%,20.0%
+mixed,5,5,0,0,0,100.0%,100.0%
+codeswitched,10,5,0,0,5,100.0%,50.0%
+clean,15,0,0,15,0,--,--

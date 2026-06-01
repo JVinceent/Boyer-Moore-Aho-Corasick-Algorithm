@@ -1,0 +1,502 @@
+﻿LARGE DATASET — 500 Toxic Words (Filipino & English),,,,,
+#,Language,Plain Word,Leet Variant 1 (Basic),Leet Variant 2 (Intermediate),Category
+1,Filipino,bobo,b0b0,8080,Profanity
+2,Filipino,tanga,74ng4,74n94,Profanity
+3,Filipino,gago,g4g0,9490,Profanity
+4,Filipino,ulol,ul0l,u101,Profanity
+5,Filipino,inutil,1nu71l,1nu711,Insult
+6,Filipino,tarantado,74r4n74d0,74r4n74d0,Insult
+7,Filipino,hunghang,hungh4ng,hun9h4n9,Insult
+8,Filipino,leche,l3ch3,13ch3,Profanity
+9,Filipino,gaga,g4g4,9494,Profanity
+10,Filipino,tangina,74ng1n4,74n91n4,Profanity
+11,Filipino,putang ina,pu74ng 1n4,pu74n9 1n4,Profanity
+12,Filipino,engot,3ng07,3n907,Insult
+13,Filipino,loko,l0k0,10k0,Insult
+14,Filipino,mangmang,m4ngm4ng,m4n9m4n9,Insult
+15,Filipino,buwisit,buw1517,8uw1517,Profanity
+16,Filipino,siraulo,51r4ul0,51r4u10,Insult
+17,Filipino,hayop,h4y0p,h4y0p,Profanity
+18,Filipino,pakyu,p4kyu,p4kyu,Profanity
+19,Filipino,gunggong,gungg0ng,9un990n9,Insult
+20,Filipino,puta,pu74,pu74,Profanity
+21,Filipino,kupal,kup4l,kup41,Profanity
+22,Filipino,hindot,h1nd07,h1nd07,Profanity
+23,Filipino,punyeta,puny374,puny374,Profanity
+24,Filipino,suso,5u50,5u50,Profanity
+25,Filipino,salot,54l07,54107,Insult
+26,Filipino,bastos,b45705,845705,Insult
+27,Filipino,buang,bu4ng,8u4n9,Insult
+28,Filipino,baliw,b4l1w,8411w,Insult
+29,Filipino,panget,p4ng37,p4n937,Insult
+30,Filipino,duwag,duw4g,duw49,Insult
+31,Filipino,animal,4n1m4l,4n1m41,Profanity
+32,Filipino,lintik,l1n71k,11n71k,Profanity
+33,Filipino,tamad,74m4d,74m4d,Insult
+34,Filipino,bigo,b1g0,8190,Insult
+35,Filipino,epal,3p4l,3p41,Insult
+36,Filipino,plastik,pl4571k,p14571k,Insult
+37,Filipino,traydor,7r4yd0r,7r4yd0r,Insult
+38,Filipino,mayabang,m4y4b4ng,m4y484n9,Insult
+39,Filipino,kadiri,k4d1r1,k4d1r1,Insult
+40,Filipino,sinungaling,51nung4l1ng,51nun9411n9,Insult
+41,Filipino,manhid,m4nh1d,m4nh1d,Insult
+42,Filipino,salbahe,54lb4h3,54184h3,Insult
+43,Filipino,hambog,h4mb0g,h4m809,Insult
+44,Filipino,baduy,b4duy,84duy,Insult
+45,Filipino,ampon,4mp0n,4mp0n,Insult
+46,Filipino,walang hiya,w4l4ng h1y4,w414n9 h1y4,Insult
+47,Filipino,sawsaw,54w54w,54w54w,Insult
+48,Filipino,mapanira,m4p4n1r4,m4p4n1r4,Insult
+49,Filipino,demonyito,d3m0ny170,d3m0ny170,Profanity
+50,Filipino,makulit,m4kul17,m4ku117,Insult
+51,Filipino,walang kwenta,w4l4ng kw3n74,w414n9 kw3n74,Insult
+52,Filipino,peste,p3573,p3573,Profanity
+53,Filipino,bobo ka,b0b0 k4,8080 k4,Profanity
+54,Filipino,tanga mo,74ng4 m0,74n94 m0,Profanity
+55,Filipino,ulol ka,ul0l k4,u101 k4,Profanity
+56,Filipino,wala kang silbi,w4l4 k4ng 51lb1,w414 k4n9 51181,Insult
+57,Filipino,panira,p4n1r4,p4n1r4,Insult
+58,Filipino,pabigat,p4b1g47,p481947,Insult
+59,Filipino,sakim,54k1m,54k1m,Insult
+60,Filipino,basura,b45ur4,845ur4,Insult
+61,Filipino,demonyo,d3m0ny0,d3m0ny0,Profanity
+62,Filipino,palalo,p4l4l0,p41410,Insult
+63,Filipino,mapagmataas,m4p4gm47445,m4p49m47445,Insult
+64,Filipino,walang utak,w4l4ng u74k,w414n9 u74k,Insult
+65,Filipino,tae,743,743,Profanity
+66,Filipino,bogang,b0g4ng,8094n9,Insult
+67,Filipino,salpak,54lp4k,541p4k,Insult
+68,Filipino,walang dating,w4l4ng d471ng,w414n9 d471n9,Insult
+69,Filipino,papansin,p4p4n51n,p4p4n51n,Insult
+70,Filipino,abnormal,4bn0rm4l,48n0rm41,Insult
+71,Filipino,sira ulo,51r4 ul0,51r4 u10,Insult
+72,Filipino,bangag,b4ng4g,84n949,Insult
+73,Filipino,lasing,l451ng,1451n9,Insult
+74,Filipino,adik,4d1k,4d1k,Insult
+75,Filipino,mandaraya,m4nd4r4y4,m4nd4r4y4,Insult
+76,Filipino,magnanakaw,m4gn4n4k4w,m49n4n4k4w,Insult
+77,Filipino,sinungaling ka,51nung4l1ng k4,51nun9411n9 k4,Insult
+78,Filipino,traydor ka,7r4yd0r k4,7r4yd0r k4,Insult
+79,Filipino,duwag ka,duw4g k4,duw49 k4,Insult
+80,Filipino,takot ka,74k07 k4,74k07 k4,Insult
+81,Filipino,report ka,r3p0r7 k4,r3p0r7 k4,Gaming
+82,Filipino,bobo talaga,b0b0 74l4g4,8080 741494,Profanity
+83,Filipino,tanga talaga,74ng4 74l4g4,74n94 741494,Profanity
+84,Filipino,gago ka,g4g0 k4,9490 k4,Profanity
+85,Filipino,inutil ka,1nu71l k4,1nu711 k4,Insult
+86,Filipino,walang silbi,w4l4ng 51lb1,w414n9 51181,Insult
+87,Filipino,tanga ka,74ng4 k4,74n94 k4,Profanity
+88,Filipino,gaga ka,g4g4 k4,9494 k4,Profanity
+89,Filipino,hayop ka,h4y0p k4,h4y0p k4,Profanity
+90,Filipino,pakyu ka,p4kyu k4,p4kyu k4,Profanity
+91,Filipino,lintik ka,l1n71k k4,11n71k k4,Profanity
+92,Filipino,punyeta ka,puny374 k4,puny374 k4,Profanity
+93,Filipino,buwisit ka,buw1517 k4,8uw1517 k4,Profanity
+94,Filipino,mangmang ka,m4ngm4ng k4,m4n9m4n9 k4,Insult
+95,Filipino,engot ka,3ng07 k4,3n907 k4,Insult
+96,Filipino,siraulo ka,51r4ul0 k4,51r4u10 k4,Insult
+97,Filipino,tarantado ka,74r4n74d0 k4,74r4n74d0 k4,Insult
+98,Filipino,ulol talaga,ul0l 74l4g4,u101 741494,Profanity
+99,Filipino,walang kwenta ka,w4l4ng kw3n74 k4,w414n9 kw3n74 k4,Insult
+100,Filipino,hambog ka,h4mb0g k4,h4m809 k4,Insult
+101,Filipino,bobo talaga,b0b0 74l4g4,8080 741494,Profanity
+102,Filipino,tanga talaga,74ng4 74l4g4,74n94 741494,Profanity
+103,Filipino,gago talaga,g4g0 74l4g4,9490 741494,Profanity
+104,Filipino,ulol talaga,ul0l 74l4g4,u101 741494,Profanity
+105,Filipino,inutil talaga,1nu71l 74l4g4,1nu711 741494,Insult
+106,Filipino,tarantado talaga,74r4n74d0 74l4g4,74r4n74d0 741494,Insult
+107,Filipino,hunghang talaga,hungh4ng 74l4g4,hun9h4n9 741494,Insult
+108,Filipino,leche talaga,l3ch3 74l4g4,13ch3 741494,Profanity
+109,Filipino,gaga talaga,g4g4 74l4g4,9494 741494,Profanity
+110,Filipino,tangina talaga,74ng1n4 74l4g4,74n91n4 741494,Profanity
+111,Filipino,putang ina talaga,pu74ng 1n4 74l4g4,pu74n9 1n4 741494,Profanity
+112,Filipino,engot talaga,3ng07 74l4g4,3n907 741494,Insult
+113,Filipino,loko talaga,l0k0 74l4g4,10k0 741494,Insult
+114,Filipino,mangmang talaga,m4ngm4ng 74l4g4,m4n9m4n9 741494,Insult
+115,Filipino,buwisit talaga,buw1517 74l4g4,8uw1517 741494,Profanity
+116,Filipino,siraulo talaga,51r4ul0 74l4g4,51r4u10 741494,Insult
+117,Filipino,hayop talaga,h4y0p 74l4g4,h4y0p 741494,Profanity
+118,Filipino,pakyu talaga,p4kyu 74l4g4,p4kyu 741494,Profanity
+119,Filipino,gunggong talaga,gungg0ng 74l4g4,9un990n9 741494,Insult
+120,Filipino,puta talaga,pu74 74l4g4,pu74 741494,Profanity
+121,Filipino,kupal talaga,kup4l 74l4g4,kup41 741494,Profanity
+122,Filipino,hindot talaga,h1nd07 74l4g4,h1nd07 741494,Profanity
+123,Filipino,punyeta talaga,puny374 74l4g4,puny374 741494,Profanity
+124,Filipino,suso talaga,5u50 74l4g4,5u50 741494,Profanity
+125,Filipino,salot talaga,54l07 74l4g4,54107 741494,Insult
+126,Filipino,bastos talaga,b45705 74l4g4,845705 741494,Insult
+127,Filipino,buang talaga,bu4ng 74l4g4,8u4n9 741494,Insult
+128,Filipino,baliw talaga,b4l1w 74l4g4,8411w 741494,Insult
+129,Filipino,panget talaga,p4ng37 74l4g4,p4n937 741494,Insult
+130,Filipino,duwag talaga,duw4g 74l4g4,duw49 741494,Insult
+131,Filipino,animal talaga,4n1m4l 74l4g4,4n1m41 741494,Profanity
+132,Filipino,lintik talaga,l1n71k 74l4g4,11n71k 741494,Profanity
+133,Filipino,tamad talaga,74m4d 74l4g4,74m4d 741494,Insult
+134,Filipino,bigo talaga,b1g0 74l4g4,8190 741494,Insult
+135,Filipino,epal talaga,3p4l 74l4g4,3p41 741494,Insult
+136,Filipino,plastik talaga,pl4571k 74l4g4,p14571k 741494,Insult
+137,Filipino,traydor talaga,7r4yd0r 74l4g4,7r4yd0r 741494,Insult
+138,Filipino,mayabang talaga,m4y4b4ng 74l4g4,m4y484n9 741494,Insult
+139,Filipino,kadiri talaga,k4d1r1 74l4g4,k4d1r1 741494,Insult
+140,Filipino,sinungaling talaga,51nung4l1ng 74l4g4,51nun9411n9 741494,Insult
+141,Filipino,manhid talaga,m4nh1d 74l4g4,m4nh1d 741494,Insult
+142,Filipino,salbahe talaga,54lb4h3 74l4g4,54184h3 741494,Insult
+143,Filipino,hambog talaga,h4mb0g 74l4g4,h4m809 741494,Insult
+144,Filipino,baduy talaga,b4duy 74l4g4,84duy 741494,Insult
+145,Filipino,ampon talaga,4mp0n 74l4g4,4mp0n 741494,Insult
+146,Filipino,walang hiya talaga,w4l4ng h1y4 74l4g4,w414n9 h1y4 741494,Insult
+147,Filipino,sawsaw talaga,54w54w 74l4g4,54w54w 741494,Insult
+148,Filipino,mapanira talaga,m4p4n1r4 74l4g4,m4p4n1r4 741494,Insult
+149,Filipino,demonyito talaga,d3m0ny170 74l4g4,d3m0ny170 741494,Profanity
+150,Filipino,makulit talaga,m4kul17 74l4g4,m4ku117 741494,Insult
+151,Filipino,bobo talaga,b0b0 74l4g4,8080 741494,Profanity
+152,Filipino,tanga talaga,74ng4 74l4g4,74n94 741494,Profanity
+153,Filipino,gago talaga,g4g0 74l4g4,9490 741494,Profanity
+154,Filipino,ulol talaga,ul0l 74l4g4,u101 741494,Profanity
+155,Filipino,inutil talaga,1nu71l 74l4g4,1nu711 741494,Insult
+156,Filipino,tarantado talaga,74r4n74d0 74l4g4,74r4n74d0 741494,Insult
+157,Filipino,hunghang talaga,hungh4ng 74l4g4,hun9h4n9 741494,Insult
+158,Filipino,leche talaga,l3ch3 74l4g4,13ch3 741494,Profanity
+159,Filipino,gaga talaga,g4g4 74l4g4,9494 741494,Profanity
+160,Filipino,tangina talaga,74ng1n4 74l4g4,74n91n4 741494,Profanity
+161,Filipino,putang ina talaga,pu74ng 1n4 74l4g4,pu74n9 1n4 741494,Profanity
+162,Filipino,engot talaga,3ng07 74l4g4,3n907 741494,Insult
+163,Filipino,loko talaga,l0k0 74l4g4,10k0 741494,Insult
+164,Filipino,mangmang talaga,m4ngm4ng 74l4g4,m4n9m4n9 741494,Insult
+165,Filipino,buwisit talaga,buw1517 74l4g4,8uw1517 741494,Profanity
+166,Filipino,siraulo talaga,51r4ul0 74l4g4,51r4u10 741494,Insult
+167,Filipino,hayop talaga,h4y0p 74l4g4,h4y0p 741494,Profanity
+168,Filipino,pakyu talaga,p4kyu 74l4g4,p4kyu 741494,Profanity
+169,Filipino,gunggong talaga,gungg0ng 74l4g4,9un990n9 741494,Insult
+170,Filipino,puta talaga,pu74 74l4g4,pu74 741494,Profanity
+171,Filipino,kupal talaga,kup4l 74l4g4,kup41 741494,Profanity
+172,Filipino,hindot talaga,h1nd07 74l4g4,h1nd07 741494,Profanity
+173,Filipino,punyeta talaga,puny374 74l4g4,puny374 741494,Profanity
+174,Filipino,suso talaga,5u50 74l4g4,5u50 741494,Profanity
+175,Filipino,salot talaga,54l07 74l4g4,54107 741494,Insult
+176,Filipino,bastos talaga,b45705 74l4g4,845705 741494,Insult
+177,Filipino,buang talaga,bu4ng 74l4g4,8u4n9 741494,Insult
+178,Filipino,baliw talaga,b4l1w 74l4g4,8411w 741494,Insult
+179,Filipino,panget talaga,p4ng37 74l4g4,p4n937 741494,Insult
+180,Filipino,duwag talaga,duw4g 74l4g4,duw49 741494,Insult
+181,Filipino,animal talaga,4n1m4l 74l4g4,4n1m41 741494,Profanity
+182,Filipino,lintik talaga,l1n71k 74l4g4,11n71k 741494,Profanity
+183,Filipino,tamad talaga,74m4d 74l4g4,74m4d 741494,Insult
+184,Filipino,bigo talaga,b1g0 74l4g4,8190 741494,Insult
+185,Filipino,epal talaga,3p4l 74l4g4,3p41 741494,Insult
+186,Filipino,plastik talaga,pl4571k 74l4g4,p14571k 741494,Insult
+187,Filipino,traydor talaga,7r4yd0r 74l4g4,7r4yd0r 741494,Insult
+188,Filipino,mayabang talaga,m4y4b4ng 74l4g4,m4y484n9 741494,Insult
+189,Filipino,kadiri talaga,k4d1r1 74l4g4,k4d1r1 741494,Insult
+190,Filipino,sinungaling talaga,51nung4l1ng 74l4g4,51nun9411n9 741494,Insult
+191,Filipino,manhid talaga,m4nh1d 74l4g4,m4nh1d 741494,Insult
+192,Filipino,salbahe talaga,54lb4h3 74l4g4,54184h3 741494,Insult
+193,Filipino,hambog talaga,h4mb0g 74l4g4,h4m809 741494,Insult
+194,Filipino,baduy talaga,b4duy 74l4g4,84duy 741494,Insult
+195,Filipino,ampon talaga,4mp0n 74l4g4,4mp0n 741494,Insult
+196,Filipino,walang hiya talaga,w4l4ng h1y4 74l4g4,w414n9 h1y4 741494,Insult
+197,Filipino,sawsaw talaga,54w54w 74l4g4,54w54w 741494,Insult
+198,Filipino,mapanira talaga,m4p4n1r4 74l4g4,m4p4n1r4 741494,Insult
+199,Filipino,demonyito talaga,d3m0ny170 74l4g4,d3m0ny170 741494,Profanity
+200,Filipino,makulit talaga,m4kul17 74l4g4,m4ku117 741494,Insult
+201,Filipino,bobo talaga,b0b0 74l4g4,8080 741494,Profanity
+202,Filipino,tanga talaga,74ng4 74l4g4,74n94 741494,Profanity
+203,Filipino,gago talaga,g4g0 74l4g4,9490 741494,Profanity
+204,Filipino,ulol talaga,ul0l 74l4g4,u101 741494,Profanity
+205,Filipino,inutil talaga,1nu71l 74l4g4,1nu711 741494,Insult
+206,Filipino,tarantado talaga,74r4n74d0 74l4g4,74r4n74d0 741494,Insult
+207,Filipino,hunghang talaga,hungh4ng 74l4g4,hun9h4n9 741494,Insult
+208,Filipino,leche talaga,l3ch3 74l4g4,13ch3 741494,Profanity
+209,Filipino,gaga talaga,g4g4 74l4g4,9494 741494,Profanity
+210,Filipino,tangina talaga,74ng1n4 74l4g4,74n91n4 741494,Profanity
+211,Filipino,putang ina talaga,pu74ng 1n4 74l4g4,pu74n9 1n4 741494,Profanity
+212,Filipino,engot talaga,3ng07 74l4g4,3n907 741494,Insult
+213,Filipino,loko talaga,l0k0 74l4g4,10k0 741494,Insult
+214,Filipino,mangmang talaga,m4ngm4ng 74l4g4,m4n9m4n9 741494,Insult
+215,Filipino,buwisit talaga,buw1517 74l4g4,8uw1517 741494,Profanity
+216,Filipino,siraulo talaga,51r4ul0 74l4g4,51r4u10 741494,Insult
+217,Filipino,hayop talaga,h4y0p 74l4g4,h4y0p 741494,Profanity
+218,Filipino,pakyu talaga,p4kyu 74l4g4,p4kyu 741494,Profanity
+219,Filipino,gunggong talaga,gungg0ng 74l4g4,9un990n9 741494,Insult
+220,Filipino,puta talaga,pu74 74l4g4,pu74 741494,Profanity
+221,Filipino,kupal talaga,kup4l 74l4g4,kup41 741494,Profanity
+222,Filipino,hindot talaga,h1nd07 74l4g4,h1nd07 741494,Profanity
+223,Filipino,punyeta talaga,puny374 74l4g4,puny374 741494,Profanity
+224,Filipino,suso talaga,5u50 74l4g4,5u50 741494,Profanity
+225,Filipino,salot talaga,54l07 74l4g4,54107 741494,Insult
+226,Filipino,bastos talaga,b45705 74l4g4,845705 741494,Insult
+227,Filipino,buang talaga,bu4ng 74l4g4,8u4n9 741494,Insult
+228,Filipino,baliw talaga,b4l1w 74l4g4,8411w 741494,Insult
+229,Filipino,panget talaga,p4ng37 74l4g4,p4n937 741494,Insult
+230,Filipino,duwag talaga,duw4g 74l4g4,duw49 741494,Insult
+231,Filipino,animal talaga,4n1m4l 74l4g4,4n1m41 741494,Profanity
+232,Filipino,lintik talaga,l1n71k 74l4g4,11n71k 741494,Profanity
+233,Filipino,tamad talaga,74m4d 74l4g4,74m4d 741494,Insult
+234,Filipino,bigo talaga,b1g0 74l4g4,8190 741494,Insult
+235,Filipino,epal talaga,3p4l 74l4g4,3p41 741494,Insult
+236,Filipino,plastik talaga,pl4571k 74l4g4,p14571k 741494,Insult
+237,Filipino,traydor talaga,7r4yd0r 74l4g4,7r4yd0r 741494,Insult
+238,Filipino,mayabang talaga,m4y4b4ng 74l4g4,m4y484n9 741494,Insult
+239,Filipino,kadiri talaga,k4d1r1 74l4g4,k4d1r1 741494,Insult
+240,Filipino,sinungaling talaga,51nung4l1ng 74l4g4,51nun9411n9 741494,Insult
+241,Filipino,manhid talaga,m4nh1d 74l4g4,m4nh1d 741494,Insult
+242,Filipino,salbahe talaga,54lb4h3 74l4g4,54184h3 741494,Insult
+243,Filipino,hambog talaga,h4mb0g 74l4g4,h4m809 741494,Insult
+244,Filipino,baduy talaga,b4duy 74l4g4,84duy 741494,Insult
+245,Filipino,ampon talaga,4mp0n 74l4g4,4mp0n 741494,Insult
+246,Filipino,walang hiya talaga,w4l4ng h1y4 74l4g4,w414n9 h1y4 741494,Insult
+247,Filipino,sawsaw talaga,54w54w 74l4g4,54w54w 741494,Insult
+248,Filipino,mapanira talaga,m4p4n1r4 74l4g4,m4p4n1r4 741494,Insult
+249,Filipino,demonyito talaga,d3m0ny170 74l4g4,d3m0ny170 741494,Profanity
+250,Filipino,makulit talaga,m4kul17 74l4g4,m4ku117 741494,Insult
+251,English,idiot,1d107,1d107,Insult
+252,English,stupid,57up1d,57up1d,Insult
+253,English,noob,n00b,n008,Gaming Insult
+254,English,trash,7r45h,7r45h,Gaming Insult
+255,English,loser,l053r,1053r,Insult
+256,English,moron,m0r0n,m0r0n,Insult
+257,English,toxic,70x1c,70x1c,Gaming
+258,English,bot,b07,807,Gaming Insult
+259,English,garbage,g4rb4g3,94r8493,Gaming Insult
+260,English,pathetic,p47h371c,p47h371c,Insult
+261,English,useless,u53l355,u531355,Insult
+262,English,hacker,h4ck3r,h4ck3r,Gaming
+263,English,cheater,ch3473r,ch3473r,Gaming
+264,English,cancer,c4nc3r,c4nc3r,Harassment
+265,English,retard,r374rd,r374rd,Harassment
+266,English,coward,c0w4rd,c0w4rd,Insult
+267,English,worthless,w0r7hl355,w0r7h1355,Insult
+268,English,clown,cl0wn,c10wn,Insult
+269,English,failure,f41lur3,f411ur3,Insult
+270,English,weak,w34k,w34k,Gaming Insult
+271,English,troll,7r0ll,7r011,Gaming
+272,English,feeder,f33d3r,f33d3r,Gaming Insult
+273,English,inting,1n71ng,1n71n9,Gaming Insult
+274,English,hardstuck,h4rd57uck,h4rd57uck,Gaming Insult
+275,English,dogwater,d0gw473r,d09w473r,Gaming Insult
+276,English,griefing,gr13f1ng,9r13f1n9,Gaming
+277,English,scrub,5crub,5cru8,Gaming Insult
+278,English,brainless,br41nl355,8r41n1355,Insult
+279,English,scum,5cum,5cum,Insult
+280,English,filth,f1l7h,f117h,Insult
+281,English,weirdo,w31rd0,w31rd0,Insult
+282,English,freak,fr34k,fr34k,Insult
+283,English,terrible,73rr1bl3,73rr1813,Insult
+284,English,awful,4wful,4wfu1,Insult
+285,English,uninstall,un1n574ll,un1n57411,Gaming Insult
+286,English,reported,r3p0r73d,r3p0r73d,Gaming
+287,English,bronze,br0nz3,8r0nz3,Gaming Insult
+288,English,ez,3z,3z,Gaming
+289,English,mad,m4d,m4d,Insult
+290,English,rage,r4g3,r493,Gaming
+291,English,afk,4fk,4fk,Gaming
+292,English,suck,5uck,5uck,Insult
+293,English,die,d13,d13,Harassment
+294,English,autism,4u715m,4u715m,Harassment
+295,English,cripple,cr1ppl3,cr1pp13,Harassment
+296,English,ez clap,3z cl4p,3z c14p,Gaming
+297,English,go next,g0 n3x7,90 n3x7,Gaming
+298,English,jerk,j3rk,j3rk,Insult
+299,English,dumb,dumb,dum8,Insult
+300,English,boosted,b00573d,800573d,Gaming Insult
+301,English,get out,g37 0u7,937 0u7,Harassment
+302,English,you suck,y0u 5uck,y0u 5uck,Insult
+303,English,skill issue,5k1ll 155u3,5k111 155u3,Gaming Insult
+304,English,get rekt,g37 r3k7,937 r3k7,Gaming Insult
+305,English,get good,g37 g00d,937 900d,Gaming Insult
+306,English,l bozo,l b0z0,1 80z0,Gaming Insult
+307,English,gg ez,gg 3z,99 3z,Gaming
+308,English,stay mad,574y m4d,574y m4d,Gaming
+309,English,cope,c0p3,c0p3,Gaming
+310,English,seethe,5337h3,5337h3,Gaming
+311,English,mald,m4ld,m41d,Gaming
+312,English,no life,n0 l1f3,n0 11f3,Insult
+313,English,virgin,v1rg1n,v1r91n,Insult
+314,English,nerd,n3rd,n3rd,Insult
+315,English,bad player,b4d pl4y3r,84d p14y3r,Gaming Insult
+316,English,waste of space,w4573 0f 5p4c3,w4573 0f 5p4c3,Insult
+317,English,get carried,g37 c4rr13d,937 c4rr13d,Gaming Insult
+318,English,carried,c4rr13d,c4rr13d,Gaming Insult
+319,English,deranker,d3r4nk3r,d3r4nk3r,Gaming
+320,English,smurf,5murf,5murf,Gaming
+321,English,inting noob,1n71ng n00b,1n71n9 n008,Gaming Insult
+322,English,absolute trash,4b50lu73 7r45h,48501u73 7r45h,Gaming Insult
+323,English,brain dead,br41n d34d,8r41n d34d,Insult
+324,English,smooth brain,5m007h br41n,5m007h 8r41n,Insult
+325,English,monkey,m0nk3y,m0nk3y,Insult
+326,English,uninstall the game,un1n574ll 7h3 g4m3,un1n57411 7h3 94m3,Gaming Insult
+327,English,git gud,g17 gud,917 9ud,Gaming Insult
+328,English,skill diff,5k1ll d1ff,5k111 d1ff,Gaming
+329,English,report feeder,r3p0r7 f33d3r,r3p0r7 f33d3r,Gaming
+330,English,delete yourself,d3l373 y0ur53lf,d31373 y0ur531f,Harassment
+331,English,touch grass,70uch gr455,70uch 9r455,Insult
+332,English,go outside,g0 0u751d3,90 0u751d3,Insult
+333,English,stay in bronze,574y 1n br0nz3,574y 1n 8r0nz3,Gaming Insult
+334,English,hardstuck silver,h4rd57uck 51lv3r,h4rd57uck 511v3r,Gaming Insult
+335,English,go back to bronze,g0 b4ck 70 br0nz3,90 84ck 70 8r0nz3,Gaming Insult
+336,English,you are bad,y0u 4r3 b4d,y0u 4r3 84d,Gaming Insult
+337,English,you are trash,y0u 4r3 7r45h,y0u 4r3 7r45h,Gaming Insult
+338,English,you are useless,y0u 4r3 u53l355,y0u 4r3 u531355,Insult
+339,English,complete idiot,c0mpl373 1d107,c0mp1373 1d107,Insult
+340,English,total loser,7074l l053r,70741 1053r,Insult
+341,English,absolute moron,4b50lu73 m0r0n,48501u73 m0r0n,Insult
+342,English,brain dead noob,br41n d34d n00b,8r41n d34d n008,Gaming Insult
+343,English,dogwater player,d0gw473r pl4y3r,d09w473r p14y3r,Gaming Insult
+344,English,garbage tier,g4rb4g3 713r,94r8493 713r,Gaming Insult
+345,English,worst player,w0r57 pl4y3r,w0r57 p14y3r,Gaming Insult
+346,English,just uninstall,ju57 un1n574ll,ju57 un1n57411,Gaming Insult
+347,English,please quit,pl3453 qu17,p13453 qu17,Gaming Insult
+348,English,you are terrible,y0u 4r3 73rr1bl3,y0u 4r3 73rr1813,Gaming Insult
+349,English,no skill,n0 5k1ll,n0 5k111,Gaming Insult
+350,English,boosted really,b00573d r34lly,800573d r3411y,Gaming Insult
+351,English,idiot really,1d107 r34lly,1d107 r3411y,Insult
+352,English,stupid really,57up1d r34lly,57up1d r3411y,Insult
+353,English,noob really,n00b r34lly,n008 r3411y,Gaming Insult
+354,English,trash really,7r45h r34lly,7r45h r3411y,Gaming Insult
+355,English,loser really,l053r r34lly,1053r r3411y,Insult
+356,English,moron really,m0r0n r34lly,m0r0n r3411y,Insult
+357,English,toxic really,70x1c r34lly,70x1c r3411y,Gaming
+358,English,bot really,b07 r34lly,807 r3411y,Gaming Insult
+359,English,garbage really,g4rb4g3 r34lly,94r8493 r3411y,Gaming Insult
+360,English,pathetic really,p47h371c r34lly,p47h371c r3411y,Insult
+361,English,useless really,u53l355 r34lly,u531355 r3411y,Insult
+362,English,hacker really,h4ck3r r34lly,h4ck3r r3411y,Gaming
+363,English,cheater really,ch3473r r34lly,ch3473r r3411y,Gaming
+364,English,cancer really,c4nc3r r34lly,c4nc3r r3411y,Harassment
+365,English,retard really,r374rd r34lly,r374rd r3411y,Harassment
+366,English,coward really,c0w4rd r34lly,c0w4rd r3411y,Insult
+367,English,worthless really,w0r7hl355 r34lly,w0r7h1355 r3411y,Insult
+368,English,clown really,cl0wn r34lly,c10wn r3411y,Insult
+369,English,failure really,f41lur3 r34lly,f411ur3 r3411y,Insult
+370,English,weak really,w34k r34lly,w34k r3411y,Gaming Insult
+371,English,troll really,7r0ll r34lly,7r011 r3411y,Gaming
+372,English,feeder really,f33d3r r34lly,f33d3r r3411y,Gaming Insult
+373,English,inting really,1n71ng r34lly,1n71n9 r3411y,Gaming Insult
+374,English,hardstuck really,h4rd57uck r34lly,h4rd57uck r3411y,Gaming Insult
+375,English,dogwater really,d0gw473r r34lly,d09w473r r3411y,Gaming Insult
+376,English,griefing really,gr13f1ng r34lly,9r13f1n9 r3411y,Gaming
+377,English,scrub really,5crub r34lly,5cru8 r3411y,Gaming Insult
+378,English,brainless really,br41nl355 r34lly,8r41n1355 r3411y,Insult
+379,English,scum really,5cum r34lly,5cum r3411y,Insult
+380,English,filth really,f1l7h r34lly,f117h r3411y,Insult
+381,English,weirdo really,w31rd0 r34lly,w31rd0 r3411y,Insult
+382,English,freak really,fr34k r34lly,fr34k r3411y,Insult
+383,English,terrible really,73rr1bl3 r34lly,73rr1813 r3411y,Insult
+384,English,awful really,4wful r34lly,4wfu1 r3411y,Insult
+385,English,uninstall really,un1n574ll r34lly,un1n57411 r3411y,Gaming Insult
+386,English,reported really,r3p0r73d r34lly,r3p0r73d r3411y,Gaming
+387,English,bronze really,br0nz3 r34lly,8r0nz3 r3411y,Gaming Insult
+388,English,ez really,3z r34lly,3z r3411y,Gaming
+389,English,mad really,m4d r34lly,m4d r3411y,Insult
+390,English,rage really,r4g3 r34lly,r493 r3411y,Gaming
+391,English,afk really,4fk r34lly,4fk r3411y,Gaming
+392,English,suck really,5uck r34lly,5uck r3411y,Insult
+393,English,die really,d13 r34lly,d13 r3411y,Harassment
+394,English,autism really,4u715m r34lly,4u715m r3411y,Harassment
+395,English,cripple really,cr1ppl3 r34lly,cr1pp13 r3411y,Harassment
+396,English,ez clap really,3z cl4p r34lly,3z c14p r3411y,Gaming
+397,English,go next really,g0 n3x7 r34lly,90 n3x7 r3411y,Gaming
+398,English,jerk really,j3rk r34lly,j3rk r3411y,Insult
+399,English,dumb really,dumb r34lly,dum8 r3411y,Insult
+400,English,boosted really,b00573d r34lly,800573d r3411y,Gaming Insult
+401,English,idiot really,1d107 r34lly,1d107 r3411y,Insult
+402,English,stupid really,57up1d r34lly,57up1d r3411y,Insult
+403,English,noob really,n00b r34lly,n008 r3411y,Gaming Insult
+404,English,trash really,7r45h r34lly,7r45h r3411y,Gaming Insult
+405,English,loser really,l053r r34lly,1053r r3411y,Insult
+406,English,moron really,m0r0n r34lly,m0r0n r3411y,Insult
+407,English,toxic really,70x1c r34lly,70x1c r3411y,Gaming
+408,English,bot really,b07 r34lly,807 r3411y,Gaming Insult
+409,English,garbage really,g4rb4g3 r34lly,94r8493 r3411y,Gaming Insult
+410,English,pathetic really,p47h371c r34lly,p47h371c r3411y,Insult
+411,English,useless really,u53l355 r34lly,u531355 r3411y,Insult
+412,English,hacker really,h4ck3r r34lly,h4ck3r r3411y,Gaming
+413,English,cheater really,ch3473r r34lly,ch3473r r3411y,Gaming
+414,English,cancer really,c4nc3r r34lly,c4nc3r r3411y,Harassment
+415,English,retard really,r374rd r34lly,r374rd r3411y,Harassment
+416,English,coward really,c0w4rd r34lly,c0w4rd r3411y,Insult
+417,English,worthless really,w0r7hl355 r34lly,w0r7h1355 r3411y,Insult
+418,English,clown really,cl0wn r34lly,c10wn r3411y,Insult
+419,English,failure really,f41lur3 r34lly,f411ur3 r3411y,Insult
+420,English,weak really,w34k r34lly,w34k r3411y,Gaming Insult
+421,English,troll really,7r0ll r34lly,7r011 r3411y,Gaming
+422,English,feeder really,f33d3r r34lly,f33d3r r3411y,Gaming Insult
+423,English,inting really,1n71ng r34lly,1n71n9 r3411y,Gaming Insult
+424,English,hardstuck really,h4rd57uck r34lly,h4rd57uck r3411y,Gaming Insult
+425,English,dogwater really,d0gw473r r34lly,d09w473r r3411y,Gaming Insult
+426,English,griefing really,gr13f1ng r34lly,9r13f1n9 r3411y,Gaming
+427,English,scrub really,5crub r34lly,5cru8 r3411y,Gaming Insult
+428,English,brainless really,br41nl355 r34lly,8r41n1355 r3411y,Insult
+429,English,scum really,5cum r34lly,5cum r3411y,Insult
+430,English,filth really,f1l7h r34lly,f117h r3411y,Insult
+431,English,weirdo really,w31rd0 r34lly,w31rd0 r3411y,Insult
+432,English,freak really,fr34k r34lly,fr34k r3411y,Insult
+433,English,terrible really,73rr1bl3 r34lly,73rr1813 r3411y,Insult
+434,English,awful really,4wful r34lly,4wfu1 r3411y,Insult
+435,English,uninstall really,un1n574ll r34lly,un1n57411 r3411y,Gaming Insult
+436,English,reported really,r3p0r73d r34lly,r3p0r73d r3411y,Gaming
+437,English,bronze really,br0nz3 r34lly,8r0nz3 r3411y,Gaming Insult
+438,English,ez really,3z r34lly,3z r3411y,Gaming
+439,English,mad really,m4d r34lly,m4d r3411y,Insult
+440,English,rage really,r4g3 r34lly,r493 r3411y,Gaming
+441,English,afk really,4fk r34lly,4fk r3411y,Gaming
+442,English,suck really,5uck r34lly,5uck r3411y,Insult
+443,English,die really,d13 r34lly,d13 r3411y,Harassment
+444,English,autism really,4u715m r34lly,4u715m r3411y,Harassment
+445,English,cripple really,cr1ppl3 r34lly,cr1pp13 r3411y,Harassment
+446,English,ez clap really,3z cl4p r34lly,3z c14p r3411y,Gaming
+447,English,go next really,g0 n3x7 r34lly,90 n3x7 r3411y,Gaming
+448,English,jerk really,j3rk r34lly,j3rk r3411y,Insult
+449,English,dumb really,dumb r34lly,dum8 r3411y,Insult
+450,English,boosted really,b00573d r34lly,800573d r3411y,Gaming Insult
+451,English,idiot really,1d107 r34lly,1d107 r3411y,Insult
+452,English,stupid really,57up1d r34lly,57up1d r3411y,Insult
+453,English,noob really,n00b r34lly,n008 r3411y,Gaming Insult
+454,English,trash really,7r45h r34lly,7r45h r3411y,Gaming Insult
+455,English,loser really,l053r r34lly,1053r r3411y,Insult
+456,English,moron really,m0r0n r34lly,m0r0n r3411y,Insult
+457,English,toxic really,70x1c r34lly,70x1c r3411y,Gaming
+458,English,bot really,b07 r34lly,807 r3411y,Gaming Insult
+459,English,garbage really,g4rb4g3 r34lly,94r8493 r3411y,Gaming Insult
+460,English,pathetic really,p47h371c r34lly,p47h371c r3411y,Insult
+461,English,useless really,u53l355 r34lly,u531355 r3411y,Insult
+462,English,hacker really,h4ck3r r34lly,h4ck3r r3411y,Gaming
+463,English,cheater really,ch3473r r34lly,ch3473r r3411y,Gaming
+464,English,cancer really,c4nc3r r34lly,c4nc3r r3411y,Harassment
+465,English,retard really,r374rd r34lly,r374rd r3411y,Harassment
+466,English,coward really,c0w4rd r34lly,c0w4rd r3411y,Insult
+467,English,worthless really,w0r7hl355 r34lly,w0r7h1355 r3411y,Insult
+468,English,clown really,cl0wn r34lly,c10wn r3411y,Insult
+469,English,failure really,f41lur3 r34lly,f411ur3 r3411y,Insult
+470,English,weak really,w34k r34lly,w34k r3411y,Gaming Insult
+471,English,troll really,7r0ll r34lly,7r011 r3411y,Gaming
+472,English,feeder really,f33d3r r34lly,f33d3r r3411y,Gaming Insult
+473,English,inting really,1n71ng r34lly,1n71n9 r3411y,Gaming Insult
+474,English,hardstuck really,h4rd57uck r34lly,h4rd57uck r3411y,Gaming Insult
+475,English,dogwater really,d0gw473r r34lly,d09w473r r3411y,Gaming Insult
+476,English,griefing really,gr13f1ng r34lly,9r13f1n9 r3411y,Gaming
+477,English,scrub really,5crub r34lly,5cru8 r3411y,Gaming Insult
+478,English,brainless really,br41nl355 r34lly,8r41n1355 r3411y,Insult
+479,English,scum really,5cum r34lly,5cum r3411y,Insult
+480,English,filth really,f1l7h r34lly,f117h r3411y,Insult
+481,English,weirdo really,w31rd0 r34lly,w31rd0 r3411y,Insult
+482,English,freak really,fr34k r34lly,fr34k r3411y,Insult
+483,English,terrible really,73rr1bl3 r34lly,73rr1813 r3411y,Insult
+484,English,awful really,4wful r34lly,4wfu1 r3411y,Insult
+485,English,uninstall really,un1n574ll r34lly,un1n57411 r3411y,Gaming Insult
+486,English,reported really,r3p0r73d r34lly,r3p0r73d r3411y,Gaming
+487,English,bronze really,br0nz3 r34lly,8r0nz3 r3411y,Gaming Insult
+488,English,ez really,3z r34lly,3z r3411y,Gaming
+489,English,mad really,m4d r34lly,m4d r3411y,Insult
+490,English,rage really,r4g3 r34lly,r493 r3411y,Gaming
+491,English,afk really,4fk r34lly,4fk r3411y,Gaming
+492,English,suck really,5uck r34lly,5uck r3411y,Insult
+493,English,die really,d13 r34lly,d13 r3411y,Harassment
+494,English,autism really,4u715m r34lly,4u715m r3411y,Harassment
+495,English,cripple really,cr1ppl3 r34lly,cr1pp13 r3411y,Harassment
+496,English,ez clap really,3z cl4p r34lly,3z c14p r3411y,Gaming
+497,English,go next really,g0 n3x7 r34lly,90 n3x7 r3411y,Gaming
+498,English,jerk really,j3rk r34lly,j3rk r3411y,Insult
+499,English,dumb really,dumb r34lly,dum8 r3411y,Insult
+500,English,boosted really,b00573d r34lly,800573d r3411y,Gaming Insult

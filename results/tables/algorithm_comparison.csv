@@ -1,0 +1,4 @@
+Algorithm,Avg_Time_us,Avg_Memory_KB,Pattern_Coverage,Time_Complexity,Space_Complexity
+Boyer-Moore,393.64,0.54,Single (iterates dict),O(n·m) worst,Θ(m)
+Aho-Corasick,1161.21,62.64,Full multi-pattern,Θ(n+z),Θ(M)
+Hybrid,247.94,0.9,Staged (BM gates AC),O(n+z) worst,Θ(M)
