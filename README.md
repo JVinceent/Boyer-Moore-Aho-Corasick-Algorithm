@@ -1,4 +1,4 @@
-# 🎮 Leetspeak-Normalized Boyer-Moore & Aho-Corasick Hybrid Pipeline
+# Leetspeak-Normalized Boyer-Moore & Aho-Corasick Hybrid Pipeline
 ### Toxic Language Detection for Online Game Chat
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This project implements a **three-stage hybrid pipeline** for real-time toxic language detection in online game chat environments — specifically targeting Filipino and English **Mobile Legends: Bang Bang** (MLBB) messages.
 
@@ -29,7 +29,7 @@ The key innovation is the **early-exit architecture**: if Boyer-Moore finds no h
 
 ---
 
-## 🏗️ Pipeline Architecture
+## Pipeline Architecture
 
 ```
 Raw Chat Message
@@ -66,11 +66,11 @@ Raw Chat Message
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 All experiments run on **90 labeled MLBB game chat messages** across three dictionary sizes (53 / 259 / 820 entries), 5 runs each, averaged.
 
-### ⚡ Execution Time
+### Execution Time
 
 | Algorithm     | Small (53) | Medium (259) | Large (820) |
 |---------------|:----------:|:------------:|:-----------:|
@@ -80,7 +80,7 @@ All experiments run on **90 labeled MLBB game chat messages** across three dicti
 
 > The hybrid pipeline's latency is **nearly constant** regardless of dictionary size — all well under the 5 ms real-time threshold.
 
-### 🧠 Memory Usage
+### Memory Usage
 
 | Algorithm     | Small (53) | Medium (259) | Large (820) |
 |---------------|:----------:|:------------:|:-----------:|
@@ -88,7 +88,7 @@ All experiments run on **90 labeled MLBB game chat messages** across three dicti
 | Aho-Corasick  | 62.6 KB    | 355.2 KB     | 1,433.3 KB  |
 | **Hybrid**    | **0.9 KB** | **0.9 KB**   | **0.9 KB**  |
 
-### 🎯 Accuracy (Hybrid Pipeline)
+### Accuracy (Hybrid Pipeline)
 
 | Metric    | All Dictionary Sizes |
 |-----------|:--------------------:|
@@ -99,7 +99,7 @@ All experiments run on **90 labeled MLBB game chat messages** across three dicti
 
 > Zero false positives across all configurations. The recall ceiling is determined by the Boyer-Moore high-risk keyword subset — not the dictionary size.
 
-### 📈 Detection by Message Type
+### Detection by Message Type
 
 | Message Type       | Detection Rate |
 |--------------------|:--------------:|
@@ -112,7 +112,7 @@ All experiments run on **90 labeled MLBB game chat messages** across three dicti
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 hybrid_pipeline-main/
@@ -142,7 +142,7 @@ hybrid_pipeline-main/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone and install dependencies
 
@@ -209,7 +209,7 @@ Results will be saved to `experiments/results/graphs/` and `experiments/results/
 
 ---
 
-## 🔤 Leetspeak Substitution Map
+## Leetspeak Substitution Map
 
 | Obfuscated | Plain | Example           |
 |:----------:|:-----:|-------------------|
@@ -244,7 +244,7 @@ Results will be saved to `experiments/results/graphs/` and `experiments/results/
 
 ---
 
-## 📉 Result Graphs
+## Result Graphs
 
 <table>
   <tr>
@@ -259,7 +259,7 @@ Results will be saved to `experiments/results/graphs/` and `experiments/results/
 
 ---
 
-## 🧩 Component Details
+## Component Details
 
 ### `normalizer.py`
 Rule-based preprocessing layer. Converts leetspeak characters to plain equivalents using a fixed hash map. Runs in **Θ(n)** regardless of input. Called before any pattern matching begins.
@@ -278,7 +278,7 @@ Full benchmark suite measuring execution time (`time.perf_counter`), peak memory
 
 ---
 
-## 📚 References
+## References
 
 - Aho, A. V., & Corasick, M. J. (1975). Efficient string matching: An aid to bibliographic search. *Communications of the ACM*, 18(6), 333–340.
 - Boyer, R. S., & Moore, J. S. (1977). A fast string searching algorithm. *Communications of the ACM*, 20(10), 762–772.
@@ -288,7 +288,7 @@ Full benchmark suite measuring execution time (`time.perf_counter`), peak memory
 
 ---
 
-## 👥 Authors
+## Authors
 
 | Name | Role |
 |------|------|
